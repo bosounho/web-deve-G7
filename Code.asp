@@ -47,4 +47,5 @@ Function NumCode()
 		Ados.Close:set Ados=nothing
 		Ados1.Close:set Ados1=nothing
 End Function
+
 %>
